@@ -1,4 +1,4 @@
-geekbeer-webapp
+Frontend mockup
 ===============
 
-The website/webapp part of the project temporarily known as geekbeer
+HTML/CSS/jQuery implementation of geekbeer
