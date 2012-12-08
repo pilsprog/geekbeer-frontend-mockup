@@ -667,11 +667,7 @@ html {
   margin-top: 50px; }
 
 body {
-  background: #222;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url(images/background.png) #222222;
   color: #fff;
   line-height: 1.4;
   font-family: 'Droid Sans', sans-serif; }
